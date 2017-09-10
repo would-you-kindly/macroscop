@@ -1,0 +1,9 @@
+D:\Рабочий стол\MacroscopTest\bin\Debug\MacroscopTest.exe.config
+D:\Рабочий стол\MacroscopTest\bin\Debug\MacroscopTest.exe
+D:\Рабочий стол\MacroscopTest\bin\Debug\MacroscopTest.pdb
+D:\Рабочий стол\MacroscopTest\obj\Debug\MacroscopTest.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\MacroscopTest\obj\Debug\MacroscopTest.Form1.resources
+D:\Рабочий стол\MacroscopTest\obj\Debug\MacroscopTest.Properties.Resources.resources
+D:\Рабочий стол\MacroscopTest\obj\Debug\MacroscopTest.csproj.GenerateResource.Cache
+D:\Рабочий стол\MacroscopTest\obj\Debug\MacroscopTest.exe
+D:\Рабочий стол\MacroscopTest\obj\Debug\MacroscopTest.pdb
